@@ -1,15 +1,12 @@
 // console.log('Hello weldi Yesser')
 
-const process = require("process")
-
 // function Somme(a,b){
 //     return a + b 
 // }
 
 // console.log(Somme(2,5))
 
-
-var Somme =(a,b)=> a + b
+// var Somme =(a,b)=> a + b
 
 // console.log(Somme(3,9))
 
